@@ -15,14 +15,14 @@ src="/backtests/zerodte/opposing/prod_no_pulsing_di_scm_4.5_5_min_di_duration_20
 	let iframe = document.querySelector("#iframe1");
 
 	iframe.addEventListener('load', function() {
-		iframe.style.height = (iframe.contentDocument.body.scrollHeight * 1.1) + 'px';
-		iframe.style.width = (iframe.contentDocument.body.scrollWidth * 1.1) + 'px';
+		iframe.style.height = iframe.contentDocument.body.scrollHeight + 'px';
+		iframe.style.width = iframe.contentDocument.body.scrollWidth  + 'px';
 	});	
 	
 	let iframe = document.querySelector("#iframe2");
 
 	iframe.addEventListener('load', function() {
-		iframe.style.height = (iframe.contentDocument.body.scrollHeight * 1.1) + 'px';
-		iframe.style.width = (iframe.contentDocument.body.scrollWidth * 1.1) + 'px';
+		iframe.style.height = iframe.contentDocument.body.scrollHeight + 'px';
+		iframe.style.width = iframe.contentDocument.body.scrollWidth  + 'px';
 	});	
 </script>
