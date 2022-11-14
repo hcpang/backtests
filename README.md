@@ -1,14 +1,14 @@
 # Summary
 * [ID5 Ensemble Time and Straddle](#id5)
 	* [ID5 Straddle](#id5-1)
-		* [ID2 Straddle](id2.md#id2)
-			* [ID2 Straddle Put only](id2.md#id2-put-only)
-			* [ID2 Straddle Call only](id2.md#id2-call-only)
+		* [ID2 Straddle](#id2)
+			* [ID2 Straddle Put only](#id2-put-only)
+			* [ID2 Straddle Call only](#id2-call-only)
 		* [D5 Straddle](#d5-only-with-35-and-40-scm-ensemble)
 	* [ID5 Time](#id5-2)
-		* [ID2 Time](id2.md#id2-1)
-			* [ID2 Time Put only](id2.md#id2-put-only-1)
-			* [ID2 Time Call only](id2.md#id2-call-only-1)
+		* [ID2 Time](#id2-1)
+			* [ID2 Time Put only](#id2-put-only-1)
+			* [ID2 Time Call only](#id2-call-only-1)
 		* [D5 Time](#d5-only-with-35-and-40-scm-ensemble-1)
 
 
@@ -53,11 +53,9 @@
 	});	
 </script>
 
+## [ID2](/zerodte/smtm_prod/straddle_based_entry_no_pulsing/dailyReturns.csv)
 
-# Time Based
-## [ID5](/zerodte_ensemble/id2_opposing/time_with_opposing_2022/dailyReturns.csv)
-
-<iframe frameborder="0" id="iframe4" src="/backtests/zerodte_ensemble/id2_opposing/time_with_opposing_2022/plPlot.html"></iframe>
+<iframe frameborder="0" id="iframe4" src="/backtests/zerodte/smtm_prod/straddle_based_entry_no_pulsing/plPlot.html"></iframe>
 
 <script>
 	let iframe4 = document.querySelector("#iframe4");
@@ -68,10 +66,9 @@
 	});	
 </script>
 
-## [D5 only with 3.5 and 4.0 SCM ensemble](/zerodte/opposing/prod_no_pulsing_di_scm_4.5_2022/dailyReturns.csv)
+## [ID2 put only](/zerodte/smtm_prod/straddle_based_entry_no_pulsing_put_only/dailyReturns.csv)
 
-<iframe frameborder="0" id="iframe5" 
-src="/backtests/zerodte/opposing/prod_no_pulsing_di_scm_4.5_5_2022/plPlot.html"></iframe>
+<iframe frameborder="0" id="iframe5" src="/backtests/zerodte/smtm_prod/straddle_based_entry_no_pulsing_put_only/plPlot.html"></iframe>
 
 <script>
 	let iframe5 = document.querySelector("#iframe5");
@@ -82,5 +79,110 @@ src="/backtests/zerodte/opposing/prod_no_pulsing_di_scm_4.5_5_2022/plPlot.html">
 	});	
 </script>
 
-# ID2 Drilldowns
-## [ID2 Backtests](id2.md)
+## [ID2 call only](/zerodte/smtm_prod/straddle_based_entry_no_pulsing_call_only/dailyReturns.csv)
+
+<iframe frameborder="0" id="iframe6" src="/backtests/zerodte/smtm_prod/straddle_based_entry_no_pulsing_call_only/plPlot.html"></iframe>
+
+<script>
+	let iframe6 = document.querySelector("#iframe6");
+
+	iframe6.addEventListener('load', function() {
+		iframe6.style.height = (iframe6.contentDocument.body.scrollHeight *1.1) + 'px';
+		iframe6.style.width = (iframe6.contentDocument.body.scrollWidth *1.1) + 'px';
+	});	
+</script>
+
+## [ID2 with pulsing](/zerodte/smtm_prod/straddle_based_entry/dailyReturns.csv)
+
+<iframe frameborder="0" id="iframe7" src="/backtests/zerodte/smtm_prod/straddle_based_entry/plPlot.html"></iframe>
+
+<script>
+	let iframe7 = document.querySelector("#iframe7");
+
+	iframe7.addEventListener('load', function() {
+		iframe7.style.height = (iframe7.contentDocument.body.scrollHeight *1.1) + 'px';
+		iframe7.style.width = (iframe7.contentDocument.body.scrollWidth *1.1) + 'px';
+	});	
+</script>
+
+# Time Based
+## [ID5](/zerodte_ensemble/id2_opposing/time_with_opposing_2022/dailyReturns.csv)
+
+<iframe frameborder="0" id="iframe8" src="/backtests/zerodte_ensemble/id2_opposing/time_with_opposing_2022/plPlot.html"></iframe>
+
+<script>
+	let iframe8 = document.querySelector("#iframe8");
+
+	iframe8.addEventListener('load', function() {
+		iframe8.style.height = (iframe8.contentDocument.body.scrollHeight *1.1) + 'px';
+		iframe8.style.width = (iframe8.contentDocument.body.scrollWidth *1.1) + 'px';
+	});	
+</script>
+
+## [D5 only with 3.5 and 4.0 SCM ensemble](/zerodte/opposing/prod_no_pulsing_di_scm_4.5_2022/dailyReturns.csv)
+
+<iframe frameborder="0" id="iframe9" 
+src="/backtests/zerodte/opposing/prod_no_pulsing_di_scm_4.5_5_2022/plPlot.html"></iframe>
+
+<script>
+	let iframe9 = document.querySelector("#iframe9");
+
+	iframe9.addEventListener('load', function() {
+		iframe9.style.height = (iframe9.contentDocument.body.scrollHeight *1.1) + 'px';
+		iframe9.style.width = (iframe9.contentDocument.body.scrollWidth *1.1) + 'px';
+	});	
+</script>
+
+## [ID2](/zerodte/smtm_prod/prod2_no_pulsing/dailyReturns.csv)
+
+<iframe frameborder="0" id="iframe10" src="/backtests/zerodte/smtm_prod/prod2_no_pulsing/plPlot.html"></iframe>
+
+<script>
+	let iframe10 = document.querySelector("#iframe10");
+
+	iframe10.addEventListener('load', function() {
+		iframe10.style.height = (iframe10.contentDocument.body.scrollHeight *1.1) + 'px';
+		iframe10.style.width = (iframe10.contentDocument.body.scrollWidth *1.1) + 'px';
+	});	
+</script>
+
+## [ID2 put only](/zerodte/smtm_prod/prod2_no_pulsing_put_only/dailyReturns.csv)
+
+<iframe frameborder="0" id="iframe11" src="/backtests/zerodte/smtm_prod/prod2_no_pulsing_put_only/plPlot.html"></iframe>
+
+<script>
+	let iframe11 = document.querySelector("#iframe11");
+
+	iframe11.addEventListener('load', function() {
+		iframe11.style.height = (iframe11.contentDocument.body.scrollHeight *1.1) + 'px';
+		iframe11.style.width = (iframe11.contentDocument.body.scrollWidth *1.1) + 'px';
+	});	
+</script>
+
+## [ID2 call only](/zerodte/smtm_prod/prod2_no_pulsing_call_only/dailyReturns.csv)
+
+<iframe frameborder="0" id="iframe12" src="/backtests/zerodte/smtm_prod/prod2_no_pulsing_call_only/plPlot.html"></iframe>
+
+<script>
+	let iframe12 = document.querySelector("#iframe12");
+
+	iframe12.addEventListener('load', function() {
+		iframe12.style.height = (iframe12.contentDocument.body.scrollHeight *1.1) + 'px';
+		iframe12.style.width = (iframe12.contentDocument.body.scrollWidth *1.1) + 'px';
+	});	
+</script>
+
+## [ID2 with pulsing](/zerodte/smtm_prod/prod2/dailyReturns.csv)
+
+<iframe frameborder="0" id="iframe13" src="/backtests/zerodte/smtm_prod/prod2/plPlot.html"></iframe>
+
+<script>
+	let iframe13 = document.querySelector("#iframe13");
+
+	iframe13.addEventListener('load', function() {
+		iframe13.style.height = (iframe13.contentDocument.body.scrollHeight *1.1) + 'px';
+		iframe13.style.width = (iframe13.contentDocument.body.scrollWidth *1.1) + 'px';
+	});	
+</script>
+
+
