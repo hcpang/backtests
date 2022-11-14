@@ -1,5 +1,5 @@
-## Straddle Based
-- [ID2](/zerodte/smtm_prod/straddle_based_entry_no_pulsing/dailyReturns.csv)
+# Straddle Based
+## [ID2](/zerodte/smtm_prod/straddle_based_entry_no_pulsing/dailyReturns.csv)
 
 <iframe frameborder="0" id="iframe1" src="/backtests/zerodte/smtm_prod/straddle_based_entry_no_pulsing/plPlot.html"></iframe>
 
@@ -12,7 +12,7 @@
 	});	
 </script>
 
-- [ID2 put only](/zerodte/smtm_prod/straddle_based_entry_no_pulsing_put_only/dailyReturns.csv)
+## [ID2 put only](/zerodte/smtm_prod/straddle_based_entry_no_pulsing_put_only/dailyReturns.csv)
 
 <iframe frameborder="0" id="iframe2" src="/backtests/zerodte/smtm_prod/straddle_based_entry_no_pulsing_put_only/plPlot.html"></iframe>
 
@@ -25,7 +25,7 @@
 	});	
 </script>
 
-- [ID2 call only](/zerodte/smtm_prod/straddle_based_entry_no_pulsing_call_only/dailyReturns.csv)
+## [ID2 call only](/zerodte/smtm_prod/straddle_based_entry_no_pulsing_call_only/dailyReturns.csv)
 
 <iframe frameborder="0" id="iframe3" src="/backtests/zerodte/smtm_prod/straddle_based_entry_no_pulsing_call_only/plPlot.html"></iframe>
 
@@ -38,7 +38,7 @@
 	});	
 </script>
 
-- [ID2 with pulsing](/zerodte/smtm_prod/straddle_based_entry/dailyReturns.csv)
+## [ID2 with pulsing](/zerodte/smtm_prod/straddle_based_entry/dailyReturns.csv)
 
 <iframe frameborder="0" id="iframe4" src="/backtests/zerodte/smtm_prod/straddle_based_entry/plPlot.html"></iframe>
 
@@ -51,8 +51,8 @@
 	});	
 </script>
 
-## Time Based
-- [ID2](/zerodte/smtm_prod/prod2_no_pulsing/dailyReturns.csv)
+# Time Based
+## [ID2](/zerodte/smtm_prod/prod2_no_pulsing/dailyReturns.csv)
 
 <iframe frameborder="0" id="iframe5" src="/backtests/zerodte/smtm_prod/prod2_no_pulsing/plPlot.html"></iframe>
 
@@ -65,7 +65,7 @@
 	});	
 </script>
 
-- [ID2 put only](/zerodte/smtm_prod/prod2_no_pulsing_put_only/dailyReturns.csv)
+## [ID2 put only](/zerodte/smtm_prod/prod2_no_pulsing_put_only/dailyReturns.csv)
 
 <iframe frameborder="0" id="iframe6" src="/backtests/zerodte/smtm_prod/prod2_no_pulsing_put_only/plPlot.html"></iframe>
 
@@ -78,7 +78,7 @@
 	});	
 </script>
 
-- [ID2 call only](/zerodte/smtm_prod/prod2_no_pulsing_call_only/dailyReturns.csv)
+## [ID2 call only](/zerodte/smtm_prod/prod2_no_pulsing_call_only/dailyReturns.csv)
 
 <iframe frameborder="0" id="iframe7" src="/backtests/zerodte/smtm_prod/prod2_no_pulsing_call_only/plPlot.html"></iframe>
 
@@ -91,7 +91,7 @@
 	});	
 </script>
 
-- [ID2 with pulsing](/zerodte/smtm_prod/prod2/dailyReturns.csv)
+## [ID2 with pulsing](/zerodte/smtm_prod/prod2/dailyReturns.csv)
 
 <iframe frameborder="0" id="iframe8" src="/backtests/zerodte/smtm_prod/prod2/plPlot.html"></iframe>
 
@@ -104,5 +104,5 @@
 	});	
 </script>
 
-## ID5
-- [ID5 Backtests](README.md)
+# ID5
+## [ID5 Backtests](README.md)

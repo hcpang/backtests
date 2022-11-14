@@ -1,5 +1,5 @@
-## Ensemble Time and Straddle
-- [ID5](/zerodte_ensemble/id2_opposing/straddle_time_with_opposing_2022/dailyReturns.csv)
+# Ensemble Time and Straddle
+## [ID5](/zerodte_ensemble/id2_opposing/straddle_time_with_opposing_2022/dailyReturns.csv)
 
 <iframe frameborder="0" id="iframe1" src="/backtests/zerodte_ensemble/id2_opposing/straddle_time_with_opposing_2022/plPlot.html"></iframe>
 
@@ -12,8 +12,8 @@
 	});	
 </script>
 
-## Straddle Based
-- [ID5](/zerodte_ensemble/id2_opposing/straddle_with_opposing_2022/dailyReturns.csv)
+# Straddle Based
+## [ID5](/zerodte_ensemble/id2_opposing/straddle_with_opposing_2022/dailyReturns.csv)
 
 <iframe frameborder="0" id="iframe2" src="/backtests/zerodte_ensemble/id2_opposing/straddle_with_opposing_2022/plPlot.html"></iframe>
 
@@ -26,7 +26,7 @@
 	});	
 </script>
 
-- [D5 only with 3.5 and 4.0 SCM ensemble](/zerodte/opposing/prod_no_pulsing_di_scm_4.5_5_straddle_2022/dailyReturns.csv)
+## [D5 only with 3.5 and 4.0 SCM ensemble](/zerodte/opposing/prod_no_pulsing_di_scm_4.5_5_straddle_2022/dailyReturns.csv)
 
 <iframe frameborder="0" id="iframe3" src="/backtests/zerodte/opposing/prod_no_pulsing_di_scm_4.5_5_straddle_2022/plPlot.html"></iframe>
 
@@ -40,8 +40,8 @@
 </script>
 
 
-## Time Based
-- [ID5](/zerodte_ensemble/id2_opposing/time_with_opposing_2022/dailyReturns.csv)
+# Time Based
+## [ID5](/zerodte_ensemble/id2_opposing/time_with_opposing_2022/dailyReturns.csv)
 
 <iframe frameborder="0" id="iframe4" src="/backtests/zerodte_ensemble/id2_opposing/time_with_opposing_2022/plPlot.html"></iframe>
 
@@ -54,7 +54,7 @@
 	});	
 </script>
 
-- [D5 only with 3.5 and 4.0 SCM ensemble](/zerodte/opposing/prod_no_pulsing_di_scm_4.5_2022/dailyReturns.csv)
+## [D5 only with 3.5 and 4.0 SCM ensemble](/zerodte/opposing/prod_no_pulsing_di_scm_4.5_2022/dailyReturns.csv)
 
 <iframe frameborder="0" id="iframe5" 
 src="/backtests/zerodte/opposing/prod_no_pulsing_di_scm_4.5_5_2022/plPlot.html"></iframe>
@@ -68,5 +68,5 @@ src="/backtests/zerodte/opposing/prod_no_pulsing_di_scm_4.5_5_2022/plPlot.html">
 	});	
 </script>
 
-## ID2 Drilldowns
-- [ID2 Backtests](id2.md)
+# ID2 Drilldowns
+## [ID2 Backtests](id2.md)
