@@ -26,7 +26,9 @@
 	});	
 </script>
 
-{% include /zerodte_ensemble/id2_opposing/straddle_time_with_opposing_2022/tradeStats.txt %}
+<iframe frameborder="0" width="100%" height="100%"
+ src="/backtests/zerodte_ensemble/id2_opposing/straddle_time_with_opposing_2022/tradeStats.txt"></iframe>
+ 
 
 # Straddle Based
 ## [ID5](/zerodte_ensemble/id2_opposing/straddle_with_opposing_2022/dailyReturns.csv)
