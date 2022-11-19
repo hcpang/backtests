@@ -44,6 +44,11 @@
 	});	
 </script>
 
+<iframe frameborder="0" width="100%" height="100%"
+ src="/backtests/zerodte_ensemble/id2_opposing/straddle_with_opposing_2022/tradeStats.txt"></iframe>
+
+
+
 ## [D5 only with 3.5 and 4.0 SCM ensemble](/zerodte/opposing/prod_no_pulsing_di_scm_4.5_5_straddle_2022/dailyReturns.csv)
 
 <iframe frameborder="0" id="iframe3" src="/backtests/zerodte/opposing/prod_no_pulsing_di_scm_4.5_5_straddle_2022/plPlot.html"></iframe>
@@ -56,6 +61,11 @@
 		iframe3.style.width = (iframe3.contentDocument.body.scrollWidth *1.1) + 'px';
 	});	
 </script>
+
+<iframe frameborder="0" width="100%" height="100%"
+ src="/backtests/zerodte/opposing/prod_no_pulsing_di_scm_4.5_5_straddle_2022/tradeStats.txt"></iframe>
+
+
 
 ## [ID2](/zerodte/smtm_prod/straddle_based_entry_no_pulsing/dailyReturns.csv)
 
@@ -70,6 +80,10 @@
 	});	
 </script>
 
+<iframe frameborder="0" width="100%" height="100%"
+ src="/backtests/zerodte/smtm_prod/straddle_based_entry_no_pulsing/tradeStats.txt"></iframe>
+
+
 ## [ID2 put only](/zerodte/smtm_prod/straddle_based_entry_no_pulsing_put_only/dailyReturns.csv)
 
 <iframe frameborder="0" id="iframe5" src="/backtests/zerodte/smtm_prod/straddle_based_entry_no_pulsing_put_only/plPlot.html"></iframe>
@@ -82,6 +96,10 @@
 		iframe5.style.width = (iframe5.contentDocument.body.scrollWidth *1.1) + 'px';
 	});	
 </script>
+
+<iframe frameborder="0" width="100%" height="100%"
+ src="/backtests/zerodte/smtm_prod/straddle_based_entry_no_pulsing_put_only/tradeStats.txt"></iframe>
+
 
 ## [ID2 call only](/zerodte/smtm_prod/straddle_based_entry_no_pulsing_call_only/dailyReturns.csv)
 
@@ -96,6 +114,10 @@
 	});	
 </script>
 
+<iframe frameborder="0" width="100%" height="100%"
+ src="/backtests/zerodte/smtm_prod/straddle_based_entry_no_pulsing_call_only/tradeStats.txt"></iframe>
+
+
 ## [ID2 with pulsing](/zerodte/smtm_prod/straddle_based_entry/dailyReturns.csv)
 
 <iframe frameborder="0" id="iframe7" src="/backtests/zerodte/smtm_prod/straddle_based_entry/plPlot.html"></iframe>
@@ -108,6 +130,10 @@
 		iframe7.style.width = (iframe7.contentDocument.body.scrollWidth *1.1) + 'px';
 	});	
 </script>
+
+<iframe frameborder="0" width="100%" height="100%"
+ src="/backtests/zerodte/smtm_prod/straddle_based_entry/tradeStats.txt"></iframe>
+
 
 # Time Based
 ## [ID5](/zerodte_ensemble/id2_opposing/time_with_opposing_2022/dailyReturns.csv)
@@ -123,6 +149,10 @@
 	});	
 </script>
 
+<iframe frameborder="0" width="100%" height="100%"
+ src="/backtests/zerodte_ensemble/id2_opposing/time_with_opposing_2022/tradeStats.txt"></iframe>
+
+
 ## [D5 only with 3.5 and 4.0 SCM ensemble](/zerodte/opposing/prod_no_pulsing_di_scm_4.5_2022/dailyReturns.csv)
 
 <iframe frameborder="0" id="iframe9" 
@@ -137,6 +167,10 @@ src="/backtests/zerodte/opposing/prod_no_pulsing_di_scm_4.5_5_2022/plPlot.html">
 	});	
 </script>
 
+<iframe frameborder="0" width="100%" height="100%"
+ src="/backtests/zerodte/opposing/prod_no_pulsing_di_scm_4.5_5_2022/tradeStats.txt"></iframe>
+
+
 ## [ID2](/zerodte/smtm_prod/prod2_no_pulsing/dailyReturns.csv)
 
 <iframe frameborder="0" id="iframe10" src="/backtests/zerodte/smtm_prod/prod2_no_pulsing/plPlot.html"></iframe>
@@ -149,6 +183,10 @@ src="/backtests/zerodte/opposing/prod_no_pulsing_di_scm_4.5_5_2022/plPlot.html">
 		iframe10.style.width = (iframe10.contentDocument.body.scrollWidth *1.1) + 'px';
 	});	
 </script>
+
+<iframe frameborder="0" width="100%" height="100%"
+ src="/backtests/zerodte/smtm_prod/prod2_no_pulsing/tradeStats.txt"></iframe>
+
 
 ## [ID2 put only](/zerodte/smtm_prod/prod2_no_pulsing_put_only/dailyReturns.csv)
 
@@ -163,6 +201,10 @@ src="/backtests/zerodte/opposing/prod_no_pulsing_di_scm_4.5_5_2022/plPlot.html">
 	});	
 </script>
 
+<iframe frameborder="0" width="100%" height="100%"
+ src="/backtests/zerodte/smtm_prod/prod2_no_pulsing_put_only/tradeStats.txt"></iframe>
+
+
 ## [ID2 call only](/zerodte/smtm_prod/prod2_no_pulsing_call_only/dailyReturns.csv)
 
 <iframe frameborder="0" id="iframe12" src="/backtests/zerodte/smtm_prod/prod2_no_pulsing_call_only/plPlot.html"></iframe>
@@ -176,6 +218,10 @@ src="/backtests/zerodte/opposing/prod_no_pulsing_di_scm_4.5_5_2022/plPlot.html">
 	});	
 </script>
 
+<iframe frameborder="0" width="100%" height="100%"
+ src="/backtests/zerodte/smtm_prod/prod2_no_pulsing_call_only/tradeStats.txt"></iframe>
+
+
 ## [ID2 with pulsing](/zerodte/smtm_prod/prod2/dailyReturns.csv)
 
 <iframe frameborder="0" id="iframe13" src="/backtests/zerodte/smtm_prod/prod2/plPlot.html"></iframe>
@@ -188,5 +234,8 @@ src="/backtests/zerodte/opposing/prod_no_pulsing_di_scm_4.5_5_2022/plPlot.html">
 		iframe13.style.width = (iframe13.contentDocument.body.scrollWidth *1.1) + 'px';
 	});	
 </script>
+
+<iframe frameborder="0" width="100%" height="100%"
+ src="/backtests/zerodte/smtm_prod/prod2/tradeStats.txt"></iframe>
 
 
