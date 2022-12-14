@@ -1,7 +1,7 @@
 Strategy class: trading.options.backtest.strategy.zerodte.id2.ZeroDteStrategy
 Commission calculator: trading.options.backtest.trading.commissions.IBOptionsCommissionCalculator
 Start Date Incl: 2022-01-01T00:00:00.000-08:00
-End Date Excl: 2022-12-10T00:00:00.000-08:00
+End Date Excl: 2022-12-13T00:00:00.000-08:00
 Is Full Wings: true
 Entry Slippage: 0.5
 Contract Price Ceiling: 1.6
@@ -16,9 +16,7 @@ Stop Multiples Put: [1.5, 2.0, 2.5]
 Stop Multiples Call: [1.5, 2.0, 2.5]
 Max Spread for Entry: 0.21
 Max Spread for Stop: 1.4
-Credit target multiplier calculator: class trading.options.backtest.strategy.zerodte.id2.sizing.ConstantCreditTargetMultiplierCalculator
-am_ratio bin thresholds: [0.46, 0.9]
-Call side credit target multipliers: [0.0, 1.0, 2.0]
+Credit Target Multiplier Calculator Class: class trading.options.backtest.strategy.zerodte.id2.credittargetmultiplier.DoNothingCreditTargetMultiplierCalculator
 Entry Decider: trading.options.backtest.strategy.zerodte.entrydecider.OpposingEntryDecider
 Stop Decider: trading.options.backtest.strategy.zerodte.id2.stopdecider.ZeroDteHiloStopDecider
 Entry Executor: trading.options.backtest.strategy.zerodte.id2.entry.IndividualCreditTargetEntryExecutor
