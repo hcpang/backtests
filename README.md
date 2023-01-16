@@ -136,7 +136,7 @@
 
 
 # Time Based
-## [ID5](/zerodte_ensemble/id2_opposing/time_with_opposing_2022/dailyReturns.csv)
+## [ID6](/zerodte_ensemble/id2_opposing/time_with_opposing_2022/dailyReturns.csv)
 
 <iframe frameborder="0" id="iframe8" src="/backtests/zerodte_ensemble/id2_opposing/time_with_opposing_2022/plPlot.html"></iframe>
 
@@ -171,8 +171,24 @@ src="/backtests/zerodte/opposing/prod_no_pulsing_di_scm_4.5_5_2022/plPlot.html">
  src="/backtests/zerodte/opposing/prod_no_pulsing_di_scm_4.5_5_2022/tradeStats.txt"></iframe>
 
 
-## [ID2](/zerodte/smtm_prod/prod2_no_pulsing/dailyReturns.csv)
 
+
+## [ID2 with D6](/zerodte/smtm_prod/prod2_no_pulsing_with_d6/dailyReturns.csv)
+<iframe frameborder="0" id="iframe14" src="/backtests/zerodte/smtm_prod/prod2_no_pulsing_with_d6/plPlot.html"></iframe>
+
+<script>
+	let iframe14 = document.querySelector("#iframe14");
+
+	iframe14.addEventListener('load', function() {
+		iframe14.style.height = (iframe14.contentDocument.body.scrollHeight *1.1) + 'px';
+		iframe14.style.width = (iframe14.contentDocument.body.scrollWidth *1.1) + 'px';
+	});	
+</script>
+
+<iframe frameborder="0" width="100%" height="100%"
+ src="/backtests/zerodte/smtm_prod/prod2_no_pulsing_with_d6/tradeStats.txt"></iframe>
+
+## [ID2](/zerodte/smtm_prod/prod2_no_pulsing/dailyReturns.csv)
 <iframe frameborder="0" id="iframe10" src="/backtests/zerodte/smtm_prod/prod2_no_pulsing/plPlot.html"></iframe>
 
 <script>
@@ -222,9 +238,9 @@ src="/backtests/zerodte/opposing/prod_no_pulsing_di_scm_4.5_5_2022/plPlot.html">
  src="/backtests/zerodte/smtm_prod/prod2_no_pulsing_call_only/tradeStats.txt"></iframe>
 
 
-## [ID2 with pulsing](/zerodte/smtm_prod/prod2/dailyReturns.csv)
+## [ID2 + D6 with pulsing](/zerodte/smtm_prod/prod2_with_d6/dailyReturns.csv)
 
-<iframe frameborder="0" id="iframe13" src="/backtests/zerodte/smtm_prod/prod2/plPlot.html"></iframe>
+<iframe frameborder="0" id="iframe13" src="/backtests/zerodte/smtm_prod/prod2_with_d6/plPlot.html"></iframe>
 
 <script>
 	let iframe13 = document.querySelector("#iframe13");
@@ -236,6 +252,6 @@ src="/backtests/zerodte/opposing/prod_no_pulsing_di_scm_4.5_5_2022/plPlot.html">
 </script>
 
 <iframe frameborder="0" width="100%" height="100%"
- src="/backtests/zerodte/smtm_prod/prod2/tradeStats.txt"></iframe>
+ src="/backtests/zerodte/smtm_prod/prod2_with_d6/tradeStats.txt"></iframe>
 
 
