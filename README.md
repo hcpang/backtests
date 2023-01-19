@@ -11,7 +11,7 @@
 		* [ID2 Time](#id2-1)
 			* [ID2 Time Put only](#id2-put-only-1)
 			* [ID2 Time Call only](#id2-call-only-1)
-
+		* [DI only Time no D2](#di-only)
 
 # Ensemble Time and Straddle
 ## [ID5](/zerodte_ensemble/id2_opposing/straddle_time_with_opposing_2022/dailyReturns.csv)
@@ -238,6 +238,21 @@ src="/backtests/zerodte/opposing/prod_no_pulsing_di_scm_4.5_5_2022/plPlot.html">
 <iframe frameborder="0" width="100%" height="100%"
  src="/backtests/zerodte/smtm_prod/prod2_no_pulsing_call_only/tradeStats.txt"></iframe>
 
+## [DI only](/zerodte/smtm_prod/prod2_di_only_no_pulsing/dailyReturns.csv)
+
+<iframe frameborder="0" id="iframe15" src="/backtests/zerodte/smtm_prod/prod2_di_only_no_pulsing/plPlot.html"></iframe>
+
+<script>
+	let iframe15 = document.querySelector("#iframe15");
+
+	iframe15.addEventListener('load', function() {
+		iframe15.style.height = (iframe15.contentDocument.body.scrollHeight *1.1) + 'px';
+		iframe15.style.width = (iframe15.contentDocument.body.scrollWidth *1.1) + 'px';
+	});	
+</script>
+
+<iframe frameborder="0" width="100%" height="100%"
+ src="/backtests/zerodte/smtm_prod/prod2_di_only_no_pulsing/tradeStats.txt"></iframe>
 
 ## [ID2 + D6 with pulsing](/zerodte/smtm_prod/prod2_with_d6/dailyReturns.csv)
 
