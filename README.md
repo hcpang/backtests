@@ -12,6 +12,7 @@
 			* [ID2 Time Put only](#id2-put-only-1)
 			* [ID2 Time Call only](#id2-call-only-1)
 		* [DI only Time no D2](#di-only)
+* [Long Straddle at Open](#long-straddle-at-open)
 
 # Ensemble Time and Straddle
 ## [ID5](/zerodte_ensemble/id2_opposing/straddle_time_with_opposing_2022/dailyReturns.csv)
@@ -270,4 +271,21 @@ src="/backtests/zerodte/opposing/prod_no_pulsing_di_scm_4.5_5_2022/plPlot.html">
 <iframe frameborder="0" width="100%" height="100%"
  src="/backtests/zerodte/smtm_prod/prod2_with_d6/tradeStats.txt"></iframe>
 
+
+# Long Straddle
+## [Long Straddle at Open](/longVol/default/atm_straddle_2022_0631/dailyReturns.csv)
+
+<iframe frameborder="0" id="iframe16" src="/longVol/default/atm_straddle_2022_0631/plPlot.html"></iframe>
+
+<script>
+	let iframe16 = document.querySelector("#iframe16");
+
+	iframe16.addEventListener('load', function() {
+		iframe16.style.height = (iframe16.contentDocument.body.scrollHeight *1.1) + 'px';
+		iframe16.style.width = (iframe16.contentDocument.body.scrollWidth *1.1) + 'px';
+	});	
+</script>
+
+<iframe frameborder="0" width="100%" height="100%"
+ src="/longVol/default/atm_straddle_2022_0631/tradeStats.txt"></iframe>
 
