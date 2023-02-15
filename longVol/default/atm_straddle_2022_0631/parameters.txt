@@ -1,7 +1,7 @@
 Strategy class: trading.options.backtest.strategy.zerodte.longvol.ZeroDteLongVolStrategy
 Commission calculator: trading.options.backtest.trading.commissions.IBOptionsCommissionCalculator
 Start Date Incl: 2022-01-01T00:00:00.000-08:00
-End Date Excl: 2023-02-14T00:00:00.000-08:00
+End Date Excl: 2023-02-15T00:00:00.000-08:00
 Option Selector: trading.options.backtest.strategy.zerodte.optionselector.ATMStraddleOptionSelector
 Entry times: [06:31]
 Underlying: SPXW
