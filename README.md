@@ -14,6 +14,7 @@
 		* [DI only Time no D2](#di-only)
 * [Long Straddle at Open](#long-straddle-at-open)
 
+
 # Ensemble Time and Straddle
 ## [ID5](/zerodte_ensemble/id2_opposing/straddle_time_with_opposing_2022/dailyReturns.csv)
 
