@@ -1,7 +1,7 @@
 Strategy class: trading.options.backtest.strategy.zerodte.id2.ZeroDteStrategy
 Commission calculator: trading.options.backtest.trading.commissions.IBOptionsCommissionCalculator
 Start Date Incl: 2022-01-01T00:00:00.000-08:00
-End Date Excl: 2023-03-18T00:00:00.000-07:00
+End Date Excl: 2023-03-21T00:00:00.000-07:00
 Is Full Wings: true
 Entry Slippage: 0.5
 Contract Price Ceiling: 1.6
@@ -20,6 +20,7 @@ Credit Target Multiplier Calculator Class: class trading.options.backtest.strate
 Entry Decider: trading.options.backtest.strategy.zerodte.entrydecider.ZeroDteStraddleBasedEntryWithFOMCDecider
 Stop Decider: trading.options.backtest.strategy.zerodte.id2.stopdecider.ZeroDteStopDecider
 Entry Executor: trading.options.backtest.strategy.zerodte.id2.entry.IndividualCreditTargetEntryExecutor
+DI Profit Take Decider: trading.options.backtest.strategy.zerodte.id2.diptdecider.DoNothingDIPTDecider
 D2 Profit Take Decider: trading.options.backtest.strategy.zerodte.id2.d2ptdecider.NeverPTD2PTDecider
 Option Selector: trading.options.backtest.strategy.zerodte.optionselector.OptionSelectorByPriceDynamicSPX
 Backtest stops only: false
