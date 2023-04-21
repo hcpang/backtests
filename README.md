@@ -1,7 +1,7 @@
-# Ensemble ID6 and ID8
-## [ID8+ID6](/zerodte_ensemble/id2_opposing/d8_d6_with_opposing_2022/dailyReturns.csv)
+# Ensemble Time ID6 and Straddle ID5
+## [ID6+ID5](/zerodte_ensemble/id2_opposing/straddle_time_with_opposing_2022/dailyReturns.csv)
 
-<iframe frameborder="0" id="iframe1" src="/backtests/zerodte_ensemble/id2_opposing/d8_d6_with_opposing_2022/plPlot.html"></iframe>
+<iframe frameborder="0" id="iframe1" src="/backtests/zerodte_ensemble/id2_opposing/straddle_time_with_opposing_2022/plPlot.html"></iframe>
 
 <script>
 	let iframe1 = document.querySelector("#iframe1");
@@ -13,7 +13,7 @@
 </script>
 
 <iframe frameborder="0" width="100%" height="100%"
- src="/backtests/zerodte_ensemble/id2_opposing/d8_d6_with_opposing_2022/tradeStats.txt"></iframe>
+ src="/backtests/zerodte_ensemble/id2_opposing/straddle_time_with_opposing_2022/tradeStats.txt"></iframe>
  
 
 
