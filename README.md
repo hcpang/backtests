@@ -1,24 +1,7 @@
-# Summary
-* [ID8 Ensemble Time and Straddle](#id8)
-	* [ID6 Time](#id6)
-		* [D5 Time](#d5-only-with-35-and-40-scm-ensemble)
-		* [ID2 with D6 Time](#id2-with-d6)
-		* [ID2 Time](#id2)
-			* [ID2 Time Put only](#id2-put-only)
-			* [ID2 Time Call only](#id2-call-only)
-		* [DI only Time no D2](#di-only)
-	* [ID5 Straddle](#id5)
-		* [D5 Straddle](#d5-only-with-35-and-40-scm-ensemble-1)
-		* [ID2 Straddle](#id2-1)
-			* [ID2 Straddle Put only](#id2-put-only-1)
-			* [ID2 Straddle Call only](#id2-call-only-1)	
-* [Long Straddle at Open](#long-straddle-at-open)
-
-
 # Ensemble ID6 and ID8
-## [ID8](/zerodte_ensemble/d8/D8_Straddle_0.6_with_opposing_2022/dailyReturns.csv)
+## [ID8](/zerodte_ensemble/id2_opposing/d8_d6_with_opposing_2022/dailyReturns.csv)
 
-<iframe frameborder="0" id="iframe1" src="/backtests/zerodte_ensemble/d8/D8_Straddle_0.6_with_opposing_2022/plPlot.html"></iframe>
+<iframe frameborder="0" id="iframe1" src="/backtests/zerodte_ensemble/id2_opposing/d8_d6_with_opposing_2022/plPlot.html"></iframe>
 
 <script>
 	let iframe1 = document.querySelector("#iframe1");
@@ -30,7 +13,7 @@
 </script>
 
 <iframe frameborder="0" width="100%" height="100%"
- src="/backtests/zerodte_ensemble/d8/D8_Straddle_0.6_with_opposing_2022/tradeStats.txt"></iframe>
+ src="/backtests/zerodte_ensemble/id2_opposing/d8_d6_with_opposing_2022/tradeStats.txt"></iframe>
  
 
 
@@ -168,6 +151,62 @@ src="/backtests/zerodte/opposing/prod_no_pulsing_di_scm_4.5_5_2022/plPlot.html">
 
 <iframe frameborder="0" width="100%" height="100%"
  src="/backtests/zerodte/smtm_prod/prod2_with_d6/tradeStats.txt"></iframe>
+
+
+# ID8
+## [ID8](/zerodte_ensemble/d8/D8_Straddle_0.6_with_opposing_2022/dailyReturns.csv)
+
+<iframe frameborder="0" id="iframe17" src="/backtests/zerodte_ensemble/d8/D8_Straddle_0.6_with_opposing_2022/plPlot.html"></iframe>
+
+<script>
+	let iframe17 = document.querySelector("#iframe17");
+
+	iframe17.addEventListener('load', function() {
+		iframe17.style.height = (iframe17.contentDocument.body.scrollHeight *1.1) + 'px';
+		iframe17.style.width = (iframe17.contentDocument.body.scrollWidth *1.1) + 'px';
+	});	
+</script>
+
+<iframe frameborder="0" width="100%" height="100%"
+ src="/backtests/zerodte_ensemble/d8/D8_Straddle_0.6_with_opposing_2022/tradeStats.txt"></iframe>
+ 
+
+
+## [D5 only with 3.5 and 4.0 SCM ensemble](/zerodte/d8/d5_for_d8_straddle_0.6_2022/dailyReturns.csv)
+
+<iframe frameborder="0" id="iframe18" 
+src="/backtests/zerodte/d8/d5_for_d8_straddle_0.6_2022/plPlot.html"></iframe>
+
+<script>
+	let iframe18 = document.querySelector("#iframe18");
+
+	iframe18.addEventListener('load', function() {
+		iframe18.style.height = (iframe18.contentDocument.body.scrollHeight *1.1) + 'px';
+		iframe18.style.width = (iframe18.contentDocument.body.scrollWidth *1.1) + 'px';
+	});	
+</script>
+
+<iframe frameborder="0" width="100%" height="100%"
+ src="/backtests/zerodte/d8/d5_for_d8_straddle_0.6_2022/tradeStats.txt"></iframe>
+
+
+
+
+## [D8](/zerodte/d8/D8_Straddle_0.6/dailyReturns.csv)
+<iframe frameborder="0" id="iframe19" src="/backtests/zerodte/d8/D8_Straddle_0.6/plPlot.html"></iframe>
+
+<script>
+	let iframe19 = document.querySelector("#iframe19");
+
+	iframe19.addEventListener('load', function() {
+		iframe19.style.height = (iframe19.contentDocument.body.scrollHeight *1.1) + 'px';
+		iframe19.style.width = (iframe19.contentDocument.body.scrollWidth *1.1) + 'px';
+	});	
+</script>
+
+<iframe frameborder="0" width="100%" height="100%"
+ src="/backtests/zerodte/d8/D8_Straddle_0.6/tradeStats.txt"></iframe>
+
 
 # Straddle Based
 ## [ID5](/zerodte_ensemble/id2_opposing/straddle_with_opposing_2022/dailyReturns.csv)
