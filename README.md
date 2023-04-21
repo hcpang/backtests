@@ -1,5 +1,5 @@
 # Ensemble ID6 and ID8
-## [ID8](/zerodte_ensemble/id2_opposing/d8_d6_with_opposing_2022/dailyReturns.csv)
+## [ID8+ID6](/zerodte_ensemble/id2_opposing/d8_d6_with_opposing_2022/dailyReturns.csv)
 
 <iframe frameborder="0" id="iframe1" src="/backtests/zerodte_ensemble/id2_opposing/d8_d6_with_opposing_2022/plPlot.html"></iframe>
 
