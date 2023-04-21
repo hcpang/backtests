@@ -192,7 +192,7 @@ src="/backtests/zerodte/d8/d5_for_d8_straddle_0.6_2022/plPlot.html"></iframe>
 
 
 
-## [D8](/zerodte/d8/D8_Straddle_0.6/dailyReturns.csv)
+## [D8+D2](/zerodte/d8/D8_Straddle_0.6/dailyReturns.csv)
 <iframe frameborder="0" id="iframe19" src="/backtests/zerodte/d8/D8_Straddle_0.6/plPlot.html"></iframe>
 
 <script>
