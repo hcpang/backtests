@@ -1,3 +1,3 @@
-D8_Straddle_0.6_with_opposing_2022,Sharpe: 11.248602337679655
-D8_Straddle_0.6_with_opposing_2022,Kelly: 0.6744635274452915
-D8_Straddle_0.6_with_opposing_2022,PCR: 0.3236881880454529
+D8_Straddle_0.6_with_opposing_2022,Sharpe: 11.296120240929286
+D8_Straddle_0.6_with_opposing_2022,Kelly: 0.6757618418060471
+D8_Straddle_0.6_with_opposing_2022,PCR: 0.32506319142582735
