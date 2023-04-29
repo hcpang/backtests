@@ -347,7 +347,7 @@ src="/backtests/zerodte/d8/d5_for_d8_straddle_0.6_2022/plPlot.html"></iframe>
 <iframe frameborder="0" width="100%" height="100%"
  src="/backtests/zerodte/Dwing/Dwing_no_overlap0.03/tradeStats.txt"></iframe>
  
- ## [D Wing Allowing Walls](/zerodte/Dwing/Dwing_with_overlap0.03/dailyReturns.csv)
+## [D Wing Allowing Walls](/zerodte/Dwing/Dwing_with_overlap0.03/dailyReturns.csv)
 
 <iframe frameborder="0" id="iframe22" src="/backtests/zerodte/Dwing/Dwing_with_overlap0.03/plPlot.html"></iframe>
 
