@@ -1,0 +1,32 @@
+Strategy class: trading.options.backtest.strategy.zerodte.id2.ZeroDteStrategy
+Commission calculator: trading.options.backtest.trading.commissions.IBOptionsCommissionCalculator
+Start Date Incl: 2022-01-01T00:00:00.000-08:00
+End Date Excl: 2023-04-28T00:00:00.000-07:00
+Is Full Wings: true
+Entry Slippage: 0.5
+Contract Price Ceiling: 1.6
+Contract Price Target: 0.8
+Contract Price Floor: 0.7
+SPX Anchor Price: 4400.0
+D2 Multiple: 1.1
+Num Tranches Per Day: 6
+Credit Target Per Tranche Per Side Put: 825.0
+Credit Target Per Tranche Per Side Call: 825.0
+Stop Multiples Put: [2.0, 1.5, 2.5]
+Stop Multiples Call: [2.0, 1.5, 2.5]
+Max Spread for Entry: 0.21
+Max Spread for Stop: 1.4
+Credit Target Multiplier Calculator Class: class trading.options.backtest.strategy.zerodte.id2.credittargetmultiplier.DoNothingCreditTargetMultiplierCalculator
+Entry Decider: trading.options.backtest.strategy.zerodte.entrydecider.DWingEntryDecider
+Stop Decider: trading.options.backtest.strategy.zerodte.id2.stopdecider.ZeroDteHiloStopDecider
+Entry Executor: trading.options.backtest.strategy.zerodte.id2.entry.IndividualCreditTargetEntryExecutor
+DI Profit Take Decider: trading.options.backtest.strategy.zerodte.id2.diptdecider.DoNothingDIPTDecider
+DI Profit Take K: 6.0
+D2 Profit Take Decider: trading.options.backtest.strategy.zerodte.id2.d2ptdecider.NeverPTD2PTDecider
+Option Selector: trading.options.backtest.strategy.zerodte.optionselector.OptionSelectorByPriceDynamicSPX
+Backtest stops only: false
+Calls included: true
+Puts included: true
+Underlyling: SPXW
+LZ time offset: 3
+

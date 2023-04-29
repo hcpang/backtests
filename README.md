@@ -312,6 +312,57 @@ src="/backtests/zerodte/d8/d5_for_d8_straddle_0.6_2022/plPlot.html"></iframe>
 <iframe frameborder="0" width="100%" height="100%"
  src="/backtests/zerodte/smtm_prod/straddle_based_entry/tradeStats.txt"></iframe>
 
+
+# R1
+## [R1](/zerodte/r1/r1/dailyReturns.csv)
+
+<iframe frameborder="0" id="iframe20" src="/backtests/zerodte/r1/r1/plPlot.html"></iframe>
+
+<script>
+	let iframe20 = document.querySelector("#iframe20");
+
+	iframe20.addEventListener('load', function() {
+		iframe20.style.height = (iframe20.contentDocument.body.scrollHeight *1.1) + 'px';
+		iframe20.style.width = (iframe20.contentDocument.body.scrollWidth *1.1) + 'px';
+	});	
+</script>
+
+<iframe frameborder="0" width="100%" height="100%"
+ src="/backtests/zerodte/r1/r1/tradeStats.txt"></iframe>
+ 
+# D Wing
+## [D Wing No Walls](/zerodte/Dwing/Dwing_no_overlap0.03/dailyReturns.csv)
+
+<iframe frameborder="0" id="iframe21" src="/backtests/zerodte/Dwing/Dwing_no_overlap0.03/plPlot.html"></iframe>
+
+<script>
+	let iframe21 = document.querySelector("#iframe21");
+
+	iframe21.addEventListener('load', function() {
+		iframe21.style.height = (iframe21.contentDocument.body.scrollHeight *1.1) + 'px';
+		iframe21.style.width = (iframe21.contentDocument.body.scrollWidth *1.1) + 'px';
+	});	
+</script>
+
+<iframe frameborder="0" width="100%" height="100%"
+ src="/backtests/zerodte/Dwing/Dwing_no_overlap0.03/tradeStats.txt"></iframe>
+ 
+ ## [D Wing Allowing Walls](/zerodte/Dwing/Dwing_with_overlap0.03/dailyReturns.csv)
+
+<iframe frameborder="0" id="iframe22" src="/backtests/zerodte/Dwing/Dwing_with_overlap0.03/plPlot.html"></iframe>
+
+<script>
+	let iframe22 = document.querySelector("#iframe22");
+
+	iframe22.addEventListener('load', function() {
+		iframe22.style.height = (iframe22.contentDocument.body.scrollHeight *1.1) + 'px';
+		iframe22.style.width = (iframe22.contentDocument.body.scrollWidth *1.1) + 'px';
+	});	
+</script>
+
+<iframe frameborder="0" width="100%" height="100%"
+ src="/backtests/zerodte/Dwing/Dwing_with_overlap0.03/tradeStats.txt"></iframe>
+
 # Long Straddle
 ## [Long Straddle at Open](/longVol/default/atm_straddle_2022_0631/dailyReturns.csv)
 

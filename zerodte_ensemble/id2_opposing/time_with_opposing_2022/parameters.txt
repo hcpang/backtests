@@ -2,4 +2,4 @@ Strategy class: trading.options.backtest.strategy.CompositeStrategy
 Commission calculator: trading.options.backtest.trading.commissions.IBOptionsCommissionCalculator
 Start Date Incl: 2022-01-01T00:00:00.000-08:00
 End Date Excl: 2023-04-28T00:00:00.000-07:00
-trading.options.backtest.strategy.zerodte.parameters.opposingensemble.OpposingEnsembleParameters@7f6137fb
+trading.options.backtest.strategy.zerodte.parameters.opposingensemble.OpposingEnsembleParameters@74ec4df3
