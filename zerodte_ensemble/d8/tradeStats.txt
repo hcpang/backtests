@@ -1,6 +1,6 @@
-D8_Straddle_0.6_with_opposing_2022,Sharpe: 11.276586062227192
-D8_Straddle_0.6_with_opposing_2022,Kelly: 0.673678967081725
-D8_Straddle_0.6_with_opposing_2022,PCR: 0.3244931306660066
-D8_Straddle_0.6_with_opposing_2022,P: 0.8139534883720932
-D8_Straddle_0.6_with_opposing_2022,B: 1.3263029516443061
-D8_Straddle_0.6_with_opposing_2022,E: 0.8935024025011792
+D8_Straddle_0.6_with_opposing_2022,Sharpe: 8.672859140341913
+D8_Straddle_0.6_with_opposing_2022,Kelly: 0.6011339977860772
+D8_Straddle_0.6_with_opposing_2022,PCR: 0.2562155887094077
+D8_Straddle_0.6_with_opposing_2022,P: 0.7906976744186051
+D8_Straddle_0.6_with_opposing_2022,B: 1.1041267467455371
+D8_Straddle_0.6_with_opposing_2022,E: 0.6637281253336803
